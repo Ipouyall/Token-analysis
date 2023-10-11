@@ -105,4 +105,7 @@ dmypy.json
 .pyre/
 .pytype/
 cython_debug/
+
 */*.npy
+*/*.json
+*/*.csv
