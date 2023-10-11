@@ -109,3 +109,4 @@ cython_debug/
 */*.npy
 */*.json
 */*.csv
+*/*.png
